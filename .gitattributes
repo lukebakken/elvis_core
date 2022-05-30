@@ -1,3 +1,7 @@
+# Default
+* text=auto
+
+# Always CRLF
 test/examples/pass_no_trailing_whitespace_crlf.erl auto eol=crlf
 
 # Never modify line endings of our newline-covering test cases
